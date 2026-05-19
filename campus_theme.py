@@ -1,4 +1,4 @@
-"""对齐 campus-community-web（Vue）的浅色玻璃拟态与顶栏视觉，通过全局 CSS 注入 Streamlit。"""
+"""对齐 浅色玻璃拟态与顶栏视觉，通过全局 CSS 注入 Streamlit。"""
 
 from __future__ import annotations
 

@@ -1,4 +1,4 @@
-"""社群主理人：社群信息维护 + 本社群活动管理（对齐 Vue ClubManageView 精简版）。"""
+"""社群主理人：社群信息维护 + 本社群活动管理（对齐 Vue ClubManageView）。"""
 
 from __future__ import annotations
 

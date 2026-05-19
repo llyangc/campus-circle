@@ -6,7 +6,7 @@ import sqlite3
 from contextlib import contextmanager
 from pathlib import Path
 
-# 密码均为 admin123（由 Python bcrypt 生成；与 Java 端 SQL 中字符串形式可能不同，但口令一致）
+# 密码均为 admin123（由 Python bcrypt 生成；）
 _DEMO_BCRYPT = b"$2b$10$sllzS8/AmOHQl2LKpY9ku./ErN/DG5EwWv1DYujFma54l7scUTh0K"
 
 
