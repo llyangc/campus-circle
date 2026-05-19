@@ -1,4 +1,4 @@
-"""SQLite 存储：校园 Streamlit 轻量模型（与 Java 表名/字段思路对齐，非同一库）。"""
+"""SQLite 存储：校园 Streamlit 轻量模型。"""
 
 from __future__ import annotations
 
